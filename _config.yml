@@ -1,0 +1,21 @@
+# Site settings
+title: My super awesome blog 
+email: your-email@domain.com
+description: "blog"
+baseurl: ""
+url: "http://chrbanks.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+destination: Staging
+paginate: 5
+timezone: America/New_York
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Chris Banks"
