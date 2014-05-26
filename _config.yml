@@ -4,6 +4,8 @@ email: chris@chrisjbanks.com
 description: "blog"
 baseurl: ""
 url: "http://chrbanks.github.io"
+github_username: chrbanks
+twitter_username: chrbanks
 
 # Build settings
 markdown: kramdown
